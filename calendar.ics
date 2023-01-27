@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:List of accepted mentoring organizations published
+DTSTART:20230222T001800Z
+SUMMARY:Accepted Organizations Announced
+UID:3aef6134-29d9-47d4-877e-9697a94bed0a@3aef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GSoC contributor proposal rankings due from Org Admins
+DTSTART:20230427T001800Z
+SUMMARY:Contributr Proposal Rankings Deadline
+UID:c9040548-3103-47ac-8ae5-b33472dfe6be@c904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Google program administrators review organization applications
+DTEND:20230221T000000Z
+DTSTART:20230207T000000Z
+SUMMARY:Organization Applications Review Period
+UID:55b74a55-d5bb-45af-9477-58b1f20555eb@55b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GSoC contributor application deadline
+DTSTART:20230404T001800Z
+SUMMARY:Contributor Applications Deadline
+UID:3cff0e07-efb2-4396-95d0-6c7330352b0f@3cff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coding officially begins!
+DTSTART:20230529T000000Z
+SUMMARY:Coding Begins
+UID:a6153d3f-2030-44f0-bfbe-d5562e5386fa@a615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentors submit final GSoC contributor evaluations (standard coding period)
+DTEND:20230904T001800Z
+DTSTART:20230828T000000Z
+SUMMARY:Contributor Evaluation Period
+UID:9d25a63d-4b89-48ff-8119-934497625454@9d25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Community Bonding Period | GSoC contributors get to know mentors\, read documentation\, get up to speed to begin working on their projects
+DTEND:20230528T000000Z
+DTSTART:20230504T000000Z
+SUMMARY:Bonding Period
+UID:e4042df0-9946-4786-b821-f72051194b64@e404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentors and GSoC contributors can begin submitting midterm evaluations
+DTSTART:20230710T001800Z
+SUMMARY:Midterm Evaluation Period Starts
+UID:0f6da6dd-da8f-486e-adb9-fabd2d361fc7@0f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GSoC contributor application period begins
+DTSTART:20230320T001800Z
+SUMMARY:Contributor Applications Begin
+UID:40515dac-0cd2-483e-866f-6c26ea385e9d@4051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentoring organizations can begin submitting applications to Google
+DTSTART:20230123T001800Z
+SUMMARY:Organization Applications Begin
+UID:11e827e0-81da-4ec0-a056-8d63de9d46ff@11e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Midterm evaluation deadline (standard coding period)
+DTSTART:20230714T001800Z
+SUMMARY:Midterm Evaluation Period Deadline
+UID:1fbb72d1-3e82-44d8-a977-479ecaee9063@1fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Work Period | GSoC contributors work on their project with guidance from Mentors
+DTEND:20230821T000000Z
+DTSTART:20230714T000000Z
+SUMMARY:Work Period
+UID:a56c9690-30ac-4881-a929-d565d9788c40@a56c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Final date for all GSoC contributors to submit their final work product and final evaluation
+DTSTART:20231106T001800Z
+SUMMARY:Extended Final Submission Deadline
+UID:7d68dcc2-4303-4db5-8bf6-c927cc845216@7d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Final date for mentors to submit evaluations for GSoC contributor projects with extended deadlines
+DTSTART:20231113T001800Z
+SUMMARY:Extended Contributor Evaluation Deadline
+UID:56fdf724-4561-45e6-b283-72805a1cd4b0@56fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Potential GSoC contributors discuss application ideas with mentoring organizations
+DTEND:20230319T000000Z
+DTSTART:20230222T000000Z
+SUMMARY:Contributor Discussions Start
+UID:63e50674-fa7c-40ef-be32-cd40bce6fd60@63e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Accepted GSoC contributor projects announced
+DTSTART:20230504T001800Z
+SUMMARY:Accepted Contributors Announced
+UID:75b41bb5-2014-41df-895b-d317205799dd@75b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Initial results of Google Summer of Code 2023 announced
+DTSTART:20230905T000000Z
+SUMMARY:Results
+UID:901f786d-acf5-4a4e-a52e-d45bbe21f3c3@901f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentoring organization application deadline
+DTSTART:20230207T001800Z
+SUMMARY:Organization Applications Deadline
+UID:d60d1352-100c-42aa-9b4f-3a081fd9fb6c@d60d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Final week: GSoC contributors submit their final work product and their final mentor evaluation (standard coding period)
+DTEND:20230828T001800Z
+DTSTART:20230821T000000Z
+SUMMARY:Final Submission Period
+UID:363e48e1-d97f-41b0-ab68-3ad0acacbb9d@363e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GSoC contributors with extended timelines continue coding
+DTEND:20231106T000000Z
+DTSTART:20230904T000000Z
+SUMMARY:Extended Timeline
+UID:b62a13ac-6fcb-44a3-9860-ae90e4df1c72@b62a.org
+END:VEVENT
+END:VCALENDAR
