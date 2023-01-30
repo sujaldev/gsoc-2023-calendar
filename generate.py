@@ -6,13 +6,11 @@ calendar = Calendar()
 
 
 def parse_start_or_end(timestamp: str):
-    timestamp = timestamp.replace("UTC", "").strip()
-
     if timestamp == "None":
         return
 
     if " - " in timestamp:
-        return datetime.strptime(timestamp.replace(" - ", " ") + " 2023", "%B %d %M:%S %Y")
+        return datetime.strptime(timestamp.replace(" - ", " ") + " 2023", "%B %d %H:%M %Z %Y")
 
     return datetime.strptime(timestamp + " 2023", "%B %d %Y")
 

@@ -2,130 +2,130 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:List of accepted mentoring organizations published
-DTSTART:20230222T001800Z
-SUMMARY:Accepted Organizations Announced
-UID:3aef6134-29d9-47d4-877e-9697a94bed0a@3aef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:GSoC contributor proposal rankings due from Org Admins
-DTSTART:20230427T001800Z
-SUMMARY:Contributr Proposal Rankings Deadline
-UID:c9040548-3103-47ac-8ae5-b33472dfe6be@c904.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Google program administrators review organization applications
 DTEND:20230221T000000Z
 DTSTART:20230207T000000Z
 SUMMARY:Organization Applications Review Period
-UID:55b74a55-d5bb-45af-9477-58b1f20555eb@55b7.org
+UID:537199c4-8a45-4d8f-9694-4584d119b18c@5371.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GSoC contributor application deadline
-DTSTART:20230404T001800Z
-SUMMARY:Contributor Applications Deadline
-UID:3cff0e07-efb2-4396-95d0-6c7330352b0f@3cff.org
+DESCRIPTION:Potential GSoC contributors discuss application ideas with mentoring organizations
+DTEND:20230319T000000Z
+DTSTART:20230222T000000Z
+SUMMARY:Contributor Discussions Period
+UID:52508145-d9a2-494e-b878-a80050b59df2@5250.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Coding officially begins!
-DTSTART:20230529T000000Z
-SUMMARY:Coding Begins
-UID:a6153d3f-2030-44f0-bfbe-d5562e5386fa@a615.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mentors submit final GSoC contributor evaluations (standard coding period)
-DTEND:20230904T001800Z
-DTSTART:20230828T000000Z
-SUMMARY:Contributor Evaluation Period
-UID:9d25a63d-4b89-48ff-8119-934497625454@9d25.org
+DESCRIPTION:Final week: GSoC contributors submit their final work product and their final mentor evaluation (standard coding period)
+DTEND:20230828T180000Z
+DTSTART:20230821T000000Z
+SUMMARY:Final Submission Period
+UID:01954dc1-3e8b-416c-a2f0-47d2d1696b17@0195.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Community Bonding Period | GSoC contributors get to know mentors\, read documentation\, get up to speed to begin working on their projects
 DTEND:20230528T000000Z
 DTSTART:20230504T000000Z
 SUMMARY:Bonding Period
-UID:e4042df0-9946-4786-b821-f72051194b64@e404.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mentors and GSoC contributors can begin submitting midterm evaluations
-DTSTART:20230710T001800Z
-SUMMARY:Midterm Evaluation Period Starts
-UID:0f6da6dd-da8f-486e-adb9-fabd2d361fc7@0f6d.org
+UID:3f11ff27-e750-4b40-849f-c758bdcce458@3f11.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:GSoC contributor application period begins
-DTSTART:20230320T001800Z
+DTSTART:20230320T180000Z
 SUMMARY:Contributor Applications Begin
-UID:40515dac-0cd2-483e-866f-6c26ea385e9d@4051.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mentoring organizations can begin submitting applications to Google
-DTSTART:20230123T001800Z
-SUMMARY:Organization Applications Begin
-UID:11e827e0-81da-4ec0-a056-8d63de9d46ff@11e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Midterm evaluation deadline (standard coding period)
-DTSTART:20230714T001800Z
-SUMMARY:Midterm Evaluation Period Deadline
-UID:1fbb72d1-3e82-44d8-a977-479ecaee9063@1fbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Work Period | GSoC contributors work on their project with guidance from Mentors
-DTEND:20230821T000000Z
-DTSTART:20230714T000000Z
-SUMMARY:Work Period
-UID:a56c9690-30ac-4881-a929-d565d9788c40@a56c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Final date for all GSoC contributors to submit their final work product and final evaluation
-DTSTART:20231106T001800Z
-SUMMARY:Extended Final Submission Deadline
-UID:7d68dcc2-4303-4db5-8bf6-c927cc845216@7d68.org
+UID:945d34fd-a87d-4776-ad45-a83b7461abdc@945d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Final date for mentors to submit evaluations for GSoC contributor projects with extended deadlines
-DTSTART:20231113T001800Z
+DTSTART:20231113T180000Z
 SUMMARY:Extended Contributor Evaluation Deadline
-UID:56fdf724-4561-45e6-b283-72805a1cd4b0@56fd.org
+UID:6cd1b700-4b31-4d16-a32c-9f0889c5b7f6@6cd1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Potential GSoC contributors discuss application ideas with mentoring organizations
-DTEND:20230319T000000Z
-DTSTART:20230222T000000Z
-SUMMARY:Contributor Discussions Start
-UID:63e50674-fa7c-40ef-be32-cd40bce6fd60@63e5.org
+DESCRIPTION:Mentors and GSoC contributors can begin submitting midterm evaluations
+DTSTART:20230710T180000Z
+SUMMARY:Midterm Evaluation Period Starts
+UID:cd2accb2-474a-4f57-a4ae-9ad7729789bf@cd2a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Accepted GSoC contributor projects announced
-DTSTART:20230504T001800Z
-SUMMARY:Accepted Contributors Announced
-UID:75b41bb5-2014-41df-895b-d317205799dd@75b4.org
+DESCRIPTION:GSoC contributor proposal rankings due from Org Admins
+DTSTART:20230427T180000Z
+SUMMARY:Contributor Proposal Rankings Deadline
+UID:4118b431-f49c-45dd-8dce-b495723e1d91@4118.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Initial results of Google Summer of Code 2023 announced
-DTSTART:20230905T000000Z
-SUMMARY:Results
-UID:901f786d-acf5-4a4e-a52e-d45bbe21f3c3@901f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mentoring organization application deadline
-DTSTART:20230207T001800Z
-SUMMARY:Organization Applications Deadline
-UID:d60d1352-100c-42aa-9b4f-3a081fd9fb6c@d60d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Final week: GSoC contributors submit their final work product and their final mentor evaluation (standard coding period)
-DTEND:20230828T001800Z
-DTSTART:20230821T000000Z
-SUMMARY:Final Submission Period
-UID:363e48e1-d97f-41b0-ab68-3ad0acacbb9d@363e.org
+DESCRIPTION:Final date for all GSoC contributors to submit their final work product and final evaluation
+DTSTART:20231106T180000Z
+SUMMARY:Extended Final Submission Deadline
+UID:562ce6f2-fc2e-4b71-95e2-36b106ad728a@562c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:GSoC contributors with extended timelines continue coding
 DTEND:20231106T000000Z
 DTSTART:20230904T000000Z
 SUMMARY:Extended Timeline
-UID:b62a13ac-6fcb-44a3-9860-ae90e4df1c72@b62a.org
+UID:2ba67eee-10f0-4bcc-ab45-6516b893211b@2ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Initial results of Google Summer of Code 2023 announced
+DTSTART:20230905T000000Z
+SUMMARY:Results
+UID:08944f10-a433-44f8-bbf9-4b4219ee9adc@0894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:GSoC contributor application deadline
+DTSTART:20230404T180000Z
+SUMMARY:Contributor Applications Deadline
+UID:b7576b57-008f-4a26-9780-dc6ab1f7ba2b@b757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentoring organization application deadline
+DTSTART:20230207T180000Z
+SUMMARY:Organization Applications Deadline
+UID:a785fc8b-a0c5-4bca-8c91-50507f9adc5b@a785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Work Period | GSoC contributors work on their project with guidance from Mentors
+DTEND:20230821T000000Z
+DTSTART:20230714T000000Z
+SUMMARY:Work Period
+UID:fefe8bd6-f0bb-4b10-9c50-aac95fa6095a@fefe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentors submit final GSoC contributor evaluations (standard coding period)
+DTEND:20230904T180000Z
+DTSTART:20230828T000000Z
+SUMMARY:Contributor Evaluation Period
+UID:b9f527c5-b07b-49d6-a7f2-05354e10aeea@b9f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mentoring organizations can begin submitting applications to Google
+DTSTART:20230123T180000Z
+SUMMARY:Organization Applications Begin
+UID:bf9afd03-cabe-4c46-a933-ee46d3ee2744@bf9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Accepted GSoC contributor projects announced
+DTSTART:20230504T180000Z
+SUMMARY:Accepted Contributors Announced
+UID:05ede3d5-0cc0-4c42-b56c-5d66858a9838@05ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:List of accepted mentoring organizations published
+DTSTART:20230222T180000Z
+SUMMARY:Accepted Organizations Announced
+UID:52165f67-c905-4d54-a2ad-6f06c5d6550e@5216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coding officially begins!
+DTSTART:20230529T000000Z
+SUMMARY:Coding Begins
+UID:cf1069e6-f9c8-43da-b0e3-ba72e6174beb@cf10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Midterm evaluation deadline (standard coding period)
+DTSTART:20230714T180000Z
+SUMMARY:Midterm Evaluation Period Deadline
+UID:cd58d2dc-6277-4dbb-9ff2-0237153ed1ab@cd58.org
 END:VEVENT
 END:VCALENDAR
